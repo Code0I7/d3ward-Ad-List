@@ -91,3 +91,40 @@
 # [Sentry]
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.getsentry.com
+
+# [Social Trackers]
+
+# [Facebook]
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+
+# [Twitter]
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+
+# [LinkedIn]
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+
+# [Reddit] 
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+
+# [TikTok]
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 log.byteoversea.com
+
+# [Pinterest]
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
+
+# [YouTube]
+0.0.0.0 ads.youtube.com
